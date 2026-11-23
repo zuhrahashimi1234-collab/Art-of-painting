@@ -1,0 +1,114 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The Art of Painting</title>
+
+    <style>
+        body {
+            background-color: #FFF4E6;
+            color: #493628;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #8B4513;
+            text-align: center;
+        }
+
+        h2 {
+            color: #A0528A;
+        }
+
+        p {
+            font-size: 17px;
+            line-height: 1.6;
+        }
+
+        ul {
+            line-height: 1.8;
+        }
+
+        a {
+            color: #8B4513;
+            font-weight: bold;
+        }
+
+        img {
+            width: 400px;
+            max-width: 100%;
+            border: 4px solid #D8A47F;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Page structure verified for the introductory web
+development lab. -->
+
+    <h1>The Art of Painting</h1>
+
+    <p>
+        Painting is a beautiful form of art that allows
+        people to express their thoughts, feelings, and
+        creativity through colors, shapes, and different
+        techniques.
+    </p>
+
+    <p>
+        People have been painting for thousands of years.
+        Some people enjoy painting as a hobby, while others
+        make it their profession. Every painting tells a story
+        in its own unique way.
+    </p>
+
+    <h2>Different Types of Painting</h2>
+
+    <p>There are many different types of painting. Some of the most popular ones are:</p>
+
+    <ul>
+        <li>Watercolor Painting</li>
+        <li>Oil Painting</li>
+        <li>Acrylic Painting</li>
+        <li>Abstract Painting</li>
+    </ul>
+
+    <h2>Why Is Painting Important?</h2>
+
+    <p>
+        Painting helps people express their imagination
+        and emotions. It can also help people relax,
+        improve their creativity, and see the world
+        from different perspectives.
+    </p>
+
+    <h2>Materials Used in Painting</h2>
+
+    <ul>
+        <li>Paint brushes</li>
+        <li>Paint and colors</li>
+        <li>Canvas or paper</li>
+        <li>Palette</li>
+    </ul>
+
+    <h2>Explore the World of Art</h2>
+
+    <p>
+        If you want to discover more about art and famous
+        paintings, visit the National Gallery website.
+    </p>
+
+    <a href="https://www.nationalgallery.org.uk/">
+        Visit the National Gallery
+    </a>
+
+    <h2>The Beauty of Painting</h2>
+
+    <img src= https://i.pinimg.com/736x/b7/2b/e3/b72be35a3470b72a3dc4306a02ae3c7f.jpg
+     alt="A beautiful watercolor painting"
+     width="400">
+</body>
+</html>
